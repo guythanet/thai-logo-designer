@@ -1,0 +1,12 @@
+{
+  "name": "thai-logo-designer",
+  "owner": { "name": "xSirGuy" },
+  "plugins": [
+    {
+      "name": "thai-logo-designer",
+      "source": "./",
+      "description": "Design logos as SVG with correct Thai lettering — interview, concepts, refinement, PNG/favicon export",
+      "version": "1.0.0"
+    }
+  ]
+}

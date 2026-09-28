@@ -1,0 +1,9 @@
+{
+  "name": "thai-logo-designer",
+  "version": "1.0.0",
+  "description": "Design logos as SVG with correct Thai lettering — interview, concepts, refinement, PNG/favicon export",
+  "author": { "name": "xSirGuy" },
+  "repository": "https://github.com/guythanet/thai-logo-designer",
+  "license": "MIT",
+  "keywords": ["logo", "svg", "thai", "design", "icon", "favicon", "branding"]
+}
